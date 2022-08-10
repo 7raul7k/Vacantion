@@ -1,0 +1,10 @@
+daysTaken,Constantinescu,Daniel,long-vacantion,14,summer,10-august
+daysTaken,Popescu,Ioan,short-vacantion,21,autumn,20-september
+daysTaken,Ionescu,Dragos,long-vacantion,30,winter,22-december
+daysTaken,Ursulescu,Alex,short-vacantion,18,spring,4-april
+daysTaken,Dumitrescu,Adelin,short-vacantion,19,summer,15-july
+requestDate,Andronescu,Robert,short-vacantion,11 august,Cyber Security,7321741627
+requestDate,Filip,Constantin,long-vacantion,10 november,Software,78213228
+requestDate,Georgescu,Robert,short-vacantion,12 may,Android,77832197
+requestDate,Lucescu,Darius,short-vacantion,10 june,Back-end,734183921
+requestDate,Andrei,Marian,long-vacantion,18 august,Front-end,74218394
